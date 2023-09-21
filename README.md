@@ -1,5 +1,5 @@
 ![Chirag Gaba](https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/1715971b-7fbe-4d36-8860-58f53ea07d6e)
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> <𝔼𝕒𝕥>
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> <pre><𝔼𝕒𝕥><br>
 {ℂ𝕠𝕕𝕖} 
 (𝕊𝕝𝕖𝕖𝕡);
 ℝ𝕖𝕡𝕖𝕒𝕥++
