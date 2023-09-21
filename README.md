@@ -1,5 +1,5 @@
 ![Chirag Gaba](https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/1715971b-7fbe-4d36-8860-58f53ea07d6e)
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img alt="Coder GIF" height=250 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 # 💫 About Me:
 Hey, this is Chirag 👋<br><br>A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻.
