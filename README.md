@@ -1,5 +1,5 @@
 
-   <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>     
+
    
 ![geekytechchirag@gmail com](https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/7abcb6ca-3cc8-4096-a350-861d6813048d)
 
@@ -29,3 +29,5 @@ Hey, this is Chirag 👋<br><br>A Geek who🙋🏽‍♂️ is passionate about�
 [![](https://visitcount.itsvg.in/api?id=GeekyChirag-030&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+   <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>     
