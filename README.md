@@ -9,7 +9,7 @@
 Hey, this is Chirag 👋<br><br>A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻.
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chirag-gaba-191a23244) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Chiragg_030) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechologicalHub) [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=white)](https://github.com/GeekyChirag-030)
 
 # 💻 Tech Stack:
