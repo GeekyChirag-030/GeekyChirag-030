@@ -7,9 +7,7 @@
 
 # 💫 About Me:
 ## Hey, this is Chirag 👋 <br><br> 
-### <pre> A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence</pre>
-### <pre> 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻.</pre>
-###                      <pre> I am Always Ready to tackle interesting (DSA) algorithmic Problems .</pre>
+### A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻. I am Always Ready to tackle interesting (DSA) algorithmic Problems.
 
 
 ## 🌐 Connect With Me:
