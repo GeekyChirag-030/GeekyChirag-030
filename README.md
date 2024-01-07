@@ -6,7 +6,8 @@
 
 
 # 💫 About Me:
-## Hey, this is Chirag 👋 <br><br> ### A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻.
+## Hey, this is Chirag 👋 <br><br> 
+### <pre> A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻.</pre>
 
 
 ## 🌐 Connect With Me:
