@@ -27,7 +27,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GeekyChirag-030&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GeekyChirag-030&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GeekyChirag-030&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
