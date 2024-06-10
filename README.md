@@ -1,9 +1,7 @@
 
 
    
-![geekytechchirag@gmail com](https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/7abcb6ca-3cc8-4096-a350-861d6813048d)
-
-
+![Chirag Gaba](https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/886b366f-339a-4256-8cf8-4b4eab1030ed)
 
 # 💫 About Me:
 ## Hey, this is Chirag 👋 <br><br> 
