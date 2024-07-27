@@ -3,7 +3,7 @@
    
 ![Chirag Gaba](https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/886b366f-339a-4256-8cf8-4b4eab1030ed)
 
-# 💫 About Me:
+# About Me:
 ## Hey, this is Chirag 👋 <br><br> 
 ### A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻. I am Always Ready to tackle interesting (DSA) algorithmic Problems.
 
@@ -17,6 +17,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=GeekyChirag-030&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GeekyChirag-030&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyChirag-030&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GeekyChirag-030&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
