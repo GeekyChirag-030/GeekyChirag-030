@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=geekychirag-030&theme=gruvbox_light" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=https://medium.com/@geekychirag-030&theme=gruvbox_light" alt="Layout with last medium posts"  />
 </div>
 
 ###
