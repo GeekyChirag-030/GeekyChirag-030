@@ -4,7 +4,7 @@
 ![Chirag Gaba](https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/886b366f-339a-4256-8cf8-4b4eab1030ed)
 
 # About Me:
-##Hey, this is Chirag 👋 <b><b> A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻. I am Always Ready to tackle interesting (DSA) algorithmic Problems.
+Hey, this is Chirag 👋 <b><b> A Geek who🙋🏽‍♂️ is passionate about💪 Programming and 👨‍💻 always curious to learn more about Artificial Intelligence 🤩 and Machine Learning .I am also an active learner and always🤔 strive to find ways to improve my knowledge and skillset💻. I am Always Ready to tackle interesting (DSA) algorithmic Problems.
 
 
 ## 🌐 Connect With Me:
