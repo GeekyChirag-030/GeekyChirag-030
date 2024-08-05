@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/chirag-gaba-191a23244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chirag-gaba-191a23244" height="30" width="40" /></a>
 <a href="https://hashnode.com/@geekychirag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@geekychirag" height="30" width="40" /></a>
 <a href="https://medium.com/@geekychirag-030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geekychirag-030" height="30" width="40" /></a>
-<a href="https://www.youtube.com/TechologicalHub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techological hub" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TechologicalHub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techological hub" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack:
