@@ -5,7 +5,7 @@
 
 # About Me:
 <h3> Hey, this is Chirag 👋 <br><br> A Geek who🙋🏽‍♂️ is passionate about Programming and  always curious to learn more about Artificial Intelligence and Machine Learning .I am also an active learner and always strive to find ways to improve my knowledge and skillset💻.
-Problem Solving DSA and CP Guy Actively Solving Problems And Participate in Contests in LeetCode,CodeChef and CodeForces.</h3>
+Problem Solving DSA and CP Enthusiast Actively Solving Problems that target my Analytical and Logical Thinking.</h3>
 
 
 ## 🌐 Connect With Me:
