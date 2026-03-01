@@ -1,11 +1,32 @@
 
 
    
-![Chirag Gaba](https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/886b366f-339a-4256-8cf8-4b4eab1030ed)
+<div align="center">
+  <img src="https://github.com/GeekyChirag-030/GeekyChirag-030/assets/96729663/886b366f-339a-4256-8cf8-4b4eab1030ed" alt="Chirag Gaba" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Chirag+%F0%9F%91%8B;Passionate+Problem+Solver+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;DSA+%26+CP+Enthusiast+%F0%9F%92%BB;Always+Curious+to+Learn+More+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-# About Me:
-<h3> Hey, this is Chirag 👋 <br><br> Passionate & Obsessed with Problem Solving and always curious to learn new things , Love to Explore Artificial Intelligence and Machine Learning from High Level Undertstanding to in depth view of it, I am also an active learner and always strive to find ways to improve my knowledge and skillset.
-Problem Solving DSA&CP Enthusiast Actively Solving Problems that target my Analytical and Logical Thinking.</h3>
+## 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <br>
+
+- 🔭 **Passionate & Obsessed** with Problem Solving
+- 🌱 Always curious to **learn new things** and explore emerging tech
+- 🤖 Deep interest in **Artificial Intelligence & Machine Learning** — from high-level concepts to in-depth implementation
+- 💡 Active learner who constantly strives to **improve knowledge and skillset**
+- ⚡ **DSA & Competitive Programming** Enthusiast solving problems that sharpen Analytical & Logical Thinking
+- 🎯 On a mission to grow every single day!
+
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img alt="Coder GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Connect With Me:
@@ -33,7 +54,3 @@ Problem Solving DSA&CP Enthusiast Actively Solving Problems that target my Analy
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-   <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>     
-
-
-  
