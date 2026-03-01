@@ -14,12 +14,13 @@
     <td valign="top" width="60%">
       <br>
 
-- 🔭 **Passionate & Obsessed** with Problem Solving
-- 🌱 Always curious to **learn new things** and explore emerging tech
-- 🤖 Deep interest in **Artificial Intelligence & Machine Learning** — from high-level concepts to in-depth implementation
+
+-  **Passionate & Obsessed** with Problem Solving
+-  Always curious to **learn new things** and explore emerging tech
+- 🤖 Love to dive into Artificial Intelligence & Machine Learning — from high-level understanding to in-depth view of it.
 - 💡 Active learner who constantly strives to **improve knowledge and skillset**
 - ⚡ **DSA & Competitive Programming** Enthusiast solving problems that sharpen Analytical & Logical Thinking
-- 🎯 On a mission to grow every single day!
+- 🎯 On a mission to grow every single day!!! 
 
     </td>
     <td valign="top" width="40%" align="center">
